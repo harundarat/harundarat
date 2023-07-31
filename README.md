@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @harundarat
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me harundarat@gmail.com
-
-<!---
-harundarat/harundarat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bd350f8b7b0932737f1b3b?variant=light)](https://roadmap.sh)
